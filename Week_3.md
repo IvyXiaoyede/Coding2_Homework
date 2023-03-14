@@ -1,6 +1,9 @@
 # Week3 Boid
 
 
+<img width="808" alt="截屏2023-03-14 21 48 23" src="https://user-images.githubusercontent.com/119190967/225148000-5cce9e93-fc33-471e-b073-927cdc0b52df.png">
+
+
 ## Youtobe:https://youtu.be/m0k39LrJlCk
 
 ## Code
