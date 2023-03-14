@@ -1,3 +1,5 @@
 # Week7_Readme
 
-这节课的作业我主要是了解了如何对图像进行一些数据化的处理
+For this class assignment I focused on understanding how to do some databasing of images, the database I used was a local database, the first step was to convert the image data into a series and randomly pull any image, here I pulled the 10th image and greyed out the image.
+I also tried averaging the data from 10 images to form a new image. The images were also charted to form a series of bar charts.
+
