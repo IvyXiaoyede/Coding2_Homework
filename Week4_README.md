@@ -3,8 +3,6 @@
 For this homework, I have combined Arduino and OpenFramework to adjust the brightness of the lamp for the display of the screen.
 
 
-Panopto：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a0f4e7a-cdb3-4498-8a0d-afc5016d4b81
-
 
 
 <img width="998" alt="截屏2023-03-14 21 41 57" src="https://user-images.githubusercontent.com/119190967/225145921-c01845ab-ef2f-4350-b085-884fc5a87139.png">
